@@ -67,12 +67,17 @@
     <Compile Include="Assets/scripts/camerafollower.cs" />
     <Compile Include="Assets/scripts/fixuponisland.cs" />
     <Compile Include="Assets/scripts/taskmanager/TaskManager.cs" />
+    <Compile Include="Assets/scripts/uiscripts/exiticon.cs" />
+    <Compile Include="Assets/scripts/uiscripts/helpicon.cs" />
     <Compile Include="Assets/scripts/taskmanager/ItemType.cs" />
     <Compile Include="Assets/scripts/autoscretch.cs" />
-    <Compile Include="Assets/scripts/movetest.cs" />
+    <Compile Include="Assets/scripts/uiscripts/day.cs" />
     <Compile Include="Assets/scripts/bubbleisland.cs" />
     <Compile Include="Assets/scripts/taskmanager/island.cs" />
+    <Compile Include="Assets/scripts/boatcontrol/boatclickmover.cs" />
+    <Compile Include="Assets/scripts/uiscripts/mapcontroller.cs" />
     <Compile Include="Assets/scripts/taskmanager/Boat.cs" />
+    <Compile Include="Assets/scripts/cameracontroller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
